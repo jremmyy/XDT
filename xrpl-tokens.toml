@@ -1,0 +1,13 @@
+[METADATA]
+title = "Blinx Digital Technologies"
+description = "Blinx Digital Technologies - The Life Currency"
+url = "https://www.xdtxpr.org/"
+logo = "https://jremmyy.github.io/XDT/xdt.png"
+
+[[CURRENCIES]]
+code = "XDT"
+issuer = "rnbmcQB78Gdz4EJbS2EG2sVRShESKFFPbe"
+name = "Blinx Digital Technologies"
+desc = "Blinx Digital Technologies - The Life Currency"
+url = "https://www.xdtxpr.org/"
+logo = "https://jremmyy.github.io/XDT/xdt.png"
